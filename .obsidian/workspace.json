@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "498ce220ced5530d",
+            "id": "f11a5e539baf32b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cardstest.md",
+                "file": "Readme.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md"
+                "file": "Readme.md"
               }
             }
           }
@@ -174,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb1cf2f2376f9fc5",
+  "active": "f11a5e539baf32b0",
   "lastOpenFiles": [
-    "AG1/Cards",
     "cardstest.md",
+    "Readme.md",
     "AG1/Cards/Základy grafů.md",
+    "AG1/Cards",
     "AG1/Přednášky/P1.md"
   ]
 }
