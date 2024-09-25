@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -112,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Cards.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Cards.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Cards.md"
+                "file": "AG1/Cards/Základy grafů.md"
               }
             }
           }
@@ -175,10 +174,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2baf539fef0bfe7",
+  "active": "eb1cf2f2376f9fc5",
   "lastOpenFiles": [
+    "AG1/Cards",
     "cardstest.md",
-    "AG1/Cards.md",
+    "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P1.md"
   ]
 }
