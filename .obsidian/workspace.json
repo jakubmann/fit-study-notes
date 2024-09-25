@@ -30,6 +30,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "498ce220ced5530d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cardstest.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -78,11 +90,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "524d551f63598b7c",
@@ -163,8 +177,8 @@
   },
   "active": "d2baf539fef0bfe7",
   "lastOpenFiles": [
-    "AG1/Přednášky/P1.md",
+    "cardstest.md",
     "AG1/Cards.md",
-    "Untitled.md"
+    "AG1/Přednášky/P1.md"
   ]
 }
