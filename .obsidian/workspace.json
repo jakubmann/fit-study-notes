@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Cvičení/CV01.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "524d551f63598b7c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Cvičení/CV01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Cvičení/CV01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md"
+                "file": "TWA/Cvičení/CV01.md"
               }
             }
           }
@@ -151,8 +150,10 @@
   },
   "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
-    "TWA/Přednášky/P1.md",
     "AG1/Cards/Základy grafů.md",
+    "TWA/Cvičení/CV01.md",
+    "TWA/Cvičení",
+    "TWA/Přednášky/P1.md",
     "TWA/Přednášky",
     "TWA",
     "Readme.md",
