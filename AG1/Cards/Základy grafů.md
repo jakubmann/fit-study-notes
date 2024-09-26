@@ -309,3 +309,35 @@ Pro každý graf $G = (V, E)$ platí $$\sum_{v \in V} \text{deg}_G(v) = 2 |E|$$
 Tags: graf věta
 <!--ID: 1727261395324-->
 END
+
+START
+Basic
+
+Jaká je definice podgrafu?
+Back:
+Graf $H$ je **podgrafem** grafu $G$, když $V(H) \subseteq V(G)$ a $E(H) \subseteq E(G)$
+
+Tags: graf
+END
+
+START
+Basic
+
+Jaká je definice indukovaného podgrafu?
+Back:
+
+Graf $H$ je **indukovaným podgrafem** grafu $G$, když $V(H) \subseteq V(G)$ a $E(H) = E(G) \cap \binom{V(H)}{2}$
+
+Tags: graf
+END
+
+START
+Basic
+
+Jaká je definice grafu indukovaného množinou vrcholů?
+Back:
+
+Je-li $G = (V, E)$ a $V' \subseteq V$, pak $G[V']$ označuje graf s množinou vrcholů $V'$
+
+Tags: graf
+END

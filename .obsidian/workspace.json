@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TWA/Přednášky/P1.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TWA/Přednášky/P1.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TWA/Přednášky/P1.md",
+                "file": "AG1/Cards/Základy grafů.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TWA/Přednášky/P1.md"
+                "file": "AG1/Cards/Základy grafů.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
-    "AG1/Cards/Základy grafů.md",
     "TWA/Přednášky/P1.md",
+    "AG1/Cards/Základy grafů.md",
     "TWA/Přednášky",
     "TWA",
     "Readme.md",
