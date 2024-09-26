@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "d1ecd9bcafe50ffa",
+        "id": "4652a474b14fd88f",
         "type": "tabs",
         "children": [
           {
-            "id": "9cf18fa0862a8c69",
+            "id": "f6af1df18766e3f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AG1/Cards/Základy grafů.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2baf539fef0bfe7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AG1/Cards/Základy grafů.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f11a5e539baf32b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -174,11 +141,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f11a5e539baf32b0",
+  "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
-    "cardstest.md",
-    "Readme.md",
     "AG1/Cards/Základy grafů.md",
+    "Readme.md",
+    "cardstest.md",
     "AG1/Cards",
     "AG1/Přednášky/P1.md"
   ]

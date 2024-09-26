@@ -33,13 +33,15 @@
       "AAG": "",
       "AG1": "",
       "AAG/Přednášky": "",
-      "AG1/Přednášky": ""
+      "AG1/Přednášky": "",
+      "AG1/Cards": ""
     },
     "FOLDER_TAGS": {
       "AAG": "",
       "AG1": "",
       "AAG/Přednášky": "",
-      "AG1/Přednášky": ""
+      "AG1/Přednášky": "",
+      "AG1/Cards": ""
     },
     "Syntax": {
       "Begin Note": "START",
@@ -73,7 +75,8 @@
     "AG1/Cards.md": "89eed35ec3022683c5f8ef07a51fa4bc",
     "AAG/Přednášky/P1.md": "d5ff2b3d235cd6c3bd3225d78220ca15",
     "cardstest.md": "4d66c721f3fccbc4bd3fbf74af3fb913",
-    "AG1/Cards/Základy grafů.md": "4c038a5612961e7a6180bd600554606e"
+    "AG1/Cards/Základy grafů.md": "4c038a5612961e7a6180bd600554606e",
+    "Readme.md": "917e3f797e5af083d454c4e000f2eddc"
   },
   "fields_dict": {
     "Basic": [
