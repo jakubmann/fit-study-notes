@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "ML1/Přednášky/P1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "ML1/Přednášky/P1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "ML1/Přednášky/P1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md"
+                "file": "ML1/Přednášky/P1.md"
               }
             }
           }
@@ -150,8 +150,11 @@
   },
   "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
-    "TWA/Cvičení/CV02.md",
     "AG1/Úkoly/Úkol 1.md",
+    "ML1/Přednášky/P1.md",
+    "ML1/Přednášky",
+    "ML1",
+    "TWA/Cvičení/CV02.md",
     "TWA/Přednášky/P2.md",
     "AAG/Úkoly/Úkol 1.md",
     "AG1/Cards/Základy grafů.md",
