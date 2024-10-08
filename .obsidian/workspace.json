@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAG/Úkoly/Úkol 1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAG/Úkoly/Úkol 1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAG/Úkoly/Úkol 1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAG/Úkoly/Úkol 1.md"
+                "file": "AG1/Úkoly/Úkol 1.md"
               }
             }
           }
@@ -150,8 +150,8 @@
   },
   "active": "9cf18fa0862a8c69",
   "lastOpenFiles": [
-    "AAG/Úkoly/úkol 1.md",
     "AAG/Úkoly/Úkol 1.md",
+    "AAG/Úkoly/úkol 1.md",
     "AG1/Úkoly/Úkol 1.md",
     "AG1/Úkoly/images/hw01_graph1.png",
     "AG1/Úkoly/images/hw01_graph2.png",
