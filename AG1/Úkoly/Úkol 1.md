@@ -1,18 +1,17 @@
 # a)
 Graf $G$ se stupni vrcholů $(0, 2, 2, 2, n)$ $n \in \mathbb{N}_0$
 
-## $n = 0$,
+## $n = 0$
 graf se stupni $(0, 2, 2, 2, 0)$ - kružnice délky 3 a 2 izolované vrcholy
 
-![[Pasted image 20241008111941.png]]
-
+![[hw01_graph1.png]]
 
 ## $n = 1$
 To by znamenalo jeden z izolovaných vrcholů napojit na kružnici, tím bychom se ale musel změnit stupeň jednoho z vrcholů v kružnici na 3. Zároveň by byl porušen princip sudosti, protože  $\sum_{v \in V(G)} \text{deg}(v) = 7$, což se nikdy nemůže rovnat $2 |E(G)|$.
 
 ## $n = 2$
 Graf s kružnicí délky 4 a jedním izolovaným vrcholem.
-![[Pasted image 20241008112023.png]]:w
+![[hw01_graph2.png]]
 
 
 ## $n = 3$

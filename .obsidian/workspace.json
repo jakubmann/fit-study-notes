@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "AAG/Úkoly/Úkol 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "AAG/Úkoly/Úkol 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md",
+                "file": "AAG/Úkoly/Úkol 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Úkoly/Úkol 1.md"
+                "file": "AAG/Úkoly/Úkol 1.md"
               }
             }
           }
@@ -150,9 +150,16 @@
   },
   "active": "9cf18fa0862a8c69",
   "lastOpenFiles": [
-    "Pasted image 20241008112023.png",
+    "AAG/Úkoly/úkol 1.md",
+    "AAG/Úkoly/Úkol 1.md",
+    "AG1/Úkoly/Úkol 1.md",
+    "AG1/Úkoly/images/hw01_graph1.png",
+    "AG1/Úkoly/images/hw01_graph2.png",
+    "AG1/Úkoly/images",
+    "AG1/Úkoly/Úkol 1.pdf",
     "Pasted image 20241008111941.png",
     "Pasted image 20241008111859.png",
+    "Pasted image 20241008112023.png",
     "AG1/Cards.md",
     "TWA/Přednášky/P2.md",
     "TWA/Přednášky/P1.md",
@@ -165,12 +172,9 @@
     "ML1/Přednášky/P1.md",
     "ML1/Přednášky",
     "ML1",
-    "AG1/Úkoly/Úkol 1.md",
     "AG1/Úkoly",
     "AG1/Cards/Základy grafů.md",
     "AG1/Cards",
-    "AAG/Úkoly/úkol 1.md",
-    "AAG/Úkoly/Úkol 1.md",
     "AAG/Úkoly",
     "AG1/Přednášky/P1.md",
     "Untitled.md"
