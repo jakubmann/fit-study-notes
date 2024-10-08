@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4652a474b14fd88f",
+        "id": "d1ecd9bcafe50ffa",
         "type": "tabs",
         "children": [
           {
-            "id": "f6af1df18766e3f5",
+            "id": "9cf18fa0862a8c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML1/Přednášky/P1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML1/Přednášky/P1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML1/Přednášky/P1.md",
+                "file": "AG1/Úkoly/Úkol 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML1/Přednášky/P1.md"
+                "file": "AG1/Úkoly/Úkol 1.md"
               }
             }
           }
@@ -144,31 +144,35 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "f6af1df18766e3f5",
+  "active": "9cf18fa0862a8c69",
   "lastOpenFiles": [
-    "AG1/Úkoly/Úkol 1.md",
+    "Pasted image 20241008112023.png",
+    "Pasted image 20241008111941.png",
+    "Pasted image 20241008111859.png",
+    "AG1/Cards.md",
+    "TWA/Přednášky/P2.md",
+    "TWA/Přednášky/P1.md",
+    "TWA/Cvičení/CV02.md",
+    "TWA/Cvičení/CV01.md",
+    "TWA/Přednášky",
+    "TWA/Cvičení",
+    "TWA",
+    "Readme.md",
     "ML1/Přednášky/P1.md",
     "ML1/Přednášky",
     "ML1",
-    "TWA/Cvičení/CV02.md",
-    "TWA/Přednášky/P2.md",
-    "AAG/Úkoly/Úkol 1.md",
-    "AG1/Cards/Základy grafů.md",
+    "AG1/Úkoly/Úkol 1.md",
     "AG1/Úkoly",
-    "TWA/Cvičení/CV01.md",
-    "AAG/Úkoly",
-    "AAG/Untitled.md",
-    "TWA/Cvičení",
-    "TWA/Přednášky/P1.md",
-    "TWA/Přednášky",
-    "TWA",
-    "Readme.md",
-    "cardstest.md",
+    "AG1/Cards/Základy grafů.md",
     "AG1/Cards",
-    "AG1/Přednášky/P1.md"
+    "AAG/Úkoly/úkol 1.md",
+    "AAG/Úkoly/Úkol 1.md",
+    "AAG/Úkoly",
+    "AG1/Přednášky/P1.md",
+    "Untitled.md"
   ]
 }

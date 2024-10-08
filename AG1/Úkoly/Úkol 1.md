@@ -3,7 +3,8 @@ Graf $G$ se stupni vrcholů $(0, 2, 2, 2, n)$ $n \in \mathbb{N}_0$
 
 ## $n = 0$,
 graf se stupni $(0, 2, 2, 2, 0)$ - kružnice délky 3 a 2 izolované vrcholy
-- todo obrazek
+
+![[Pasted image 20241008111941.png]]
 
 
 ## $n = 1$
@@ -11,7 +12,8 @@ To by znamenalo jeden z izolovaných vrcholů napojit na kružnici, tím bychom 
 
 ## $n = 2$
 Graf s kružnicí délky 4 a jedním izolovaným vrcholem.
-- todo obrázek
+![[Pasted image 20241008112023.png]]:w
+
 
 ## $n = 3$
 Porušuje princip sudosti. ($\sum_{v \in V(G)} = 9$).
