@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4652a474b14fd88f",
+        "id": "70e5eda6075864bf",
         "type": "tabs",
         "children": [
           {
-            "id": "f6af1df18766e3f5",
+            "id": "eafb6200cea6d3bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6af1df18766e3f5",
+  "active": "eafb6200cea6d3bf",
   "lastOpenFiles": [
-    "TWA/Přednášky/P3.md",
+    "courses.fit.cvut.cz/BI-PHP.md",
     "TWA/Cvičení/CV03.md",
+    "courses.fit.cvut.cz",
+    "TWA/Přednášky/P3.md",
     "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P1.md",
     "PA1/Cvičení/CV03.md",
@@ -178,7 +180,6 @@
     "AAG/Untitled.md",
     "TWA/Cvičení",
     "TWA/Přednášky/P1.md",
-    "TWA/Přednášky",
     "Readme.md",
     "cardstest.md"
   ]
