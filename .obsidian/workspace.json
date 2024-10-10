@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "524d551f63598b7c",
@@ -148,7 +149,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6af1df18766e3f5",
+  "active": "eb1cf2f2376f9fc5",
   "lastOpenFiles": [
     "AG1/Přednášky/P1.md",
     "PA1/Cvičení/CV03.md",
