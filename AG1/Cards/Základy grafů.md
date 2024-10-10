@@ -349,3 +349,4 @@ Back:
 Podgraf úplného bipartitního grafu je **bipartitní graf**.
 Tags: graf definice
 END
+
