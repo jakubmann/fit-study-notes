@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Přednášky/P1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99d68bc5bd3f0ecf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "PA1/Cvičení/CV03.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "PA1/Cvičení/CV03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "PA1/Cvičení/CV03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "PA1/Cvičení/CV03.md"
               }
             }
           }
@@ -161,9 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "99d68bc5bd3f0ecf",
+  "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
     "AG1/Přednášky/P1.md",
+    "PA1/Cvičení/CV03.md",
+    "PA1/Cvičení",
+    "PA1",
     "conflict-files-obsidian-git.md",
     "AG1/Úkoly/images/hw01_graph2.png",
     "AG1/Úkoly/images/hw01_graph1.png",
@@ -187,9 +177,7 @@
     "TWA/Cvičení",
     "TWA/Přednášky/P1.md",
     "TWA/Přednášky",
-    "TWA",
     "Readme.md",
-    "cardstest.md",
-    "AG1/Cards"
+    "cardstest.md"
   ]
 }
