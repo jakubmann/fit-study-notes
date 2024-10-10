@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "99d68bc5bd3f0ecf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Přednášky/P1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Přednášky/P1.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Přednášky/P1.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,8 +161,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6af1df18766e3f5",
+  "active": "99d68bc5bd3f0ecf",
   "lastOpenFiles": [
+    "AG1/Přednášky/P1.md",
+    "conflict-files-obsidian-git.md",
+    "AG1/Úkoly/images/hw01_graph2.png",
+    "AG1/Úkoly/images/hw01_graph1.png",
+    "AG1/Úkoly/images",
+    "AAG/Úkoly/Úkol 2.md",
+    "AAG/Úkoly/images/hw01_automat2.png",
+    "AAG/Úkoly/images/hw01_automat1.png",
+    "AAG/Úkoly/images",
     "AG1/Cards/Základy grafů.md",
     "ML1/Přednášky/P1.md",
     "AG1/Úkoly/Úkol 1.md",
@@ -168,7 +190,6 @@
     "TWA",
     "Readme.md",
     "cardstest.md",
-    "AG1/Cards",
-    "AG1/Přednášky/P1.md"
+    "AG1/Cards"
   ]
 }
