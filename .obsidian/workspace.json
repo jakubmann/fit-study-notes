@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Přednášky/P3.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "524d551f63598b7c",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Přednášky/P3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md",
+                "file": "TWA/Přednášky/P3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Cards/Základy grafů.md"
+                "file": "TWA/Přednášky/P3.md"
               }
             }
           }
@@ -149,8 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb1cf2f2376f9fc5",
+  "active": "f6af1df18766e3f5",
   "lastOpenFiles": [
+    "AG1/Cards/Základy grafů.md",
+    "TWA/Přednášky/P3.md",
     "AG1/Přednášky/P1.md",
     "PA1/Cvičení/CV03.md",
     "PA1/Cvičení",
@@ -163,7 +164,6 @@
     "AAG/Úkoly/images/hw01_automat2.png",
     "AAG/Úkoly/images/hw01_automat1.png",
     "AAG/Úkoly/images",
-    "AG1/Cards/Základy grafů.md",
     "ML1/Přednášky/P1.md",
     "AG1/Úkoly/Úkol 1.md",
     "ML1/Přednášky",
