@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "courses.fit.cvut.cz/BI-PHP.md",
+                "file": "AG1/Cards/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "courses.fit.cvut.cz/BI-PHP.md",
+                "file": "AG1/Cards/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "courses.fit.cvut.cz/BI-PHP.md",
+                "file": "AG1/Cards/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "courses.fit.cvut.cz/BI-PHP.md"
+                "file": "AG1/Cards/Untitled.md"
               }
             }
           }
@@ -150,12 +150,12 @@
   },
   "active": "eafb6200cea6d3bf",
   "lastOpenFiles": [
+    "courses.fit.cvut.cz/BI-PHP.md",
     "AG1/Cards/Untitled.md",
     "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P2.md",
     "AG1/Přednášky/P1.md",
     "TWA/Cvičení/CV03.md",
-    "courses.fit.cvut.cz/BI-PHP.md",
     "courses.fit.cvut.cz",
     "TWA/Přednášky/P3.md",
     "PA1/Cvičení/CV03.md",
