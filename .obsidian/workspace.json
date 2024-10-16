@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70e5eda6075864bf",
+        "id": "eadedd5e4f2eb407",
         "type": "tabs",
         "children": [
           {
-            "id": "eafb6200cea6d3bf",
+            "id": "dfffcb823ed44bfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,17 +148,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eafb6200cea6d3bf",
+  "active": "eb1cf2f2376f9fc5",
   "lastOpenFiles": [
-    "AG1/Cards/Untitled.md",
+    "AG1/Úkoly/images/hw02_graph2.png",
+    "AG1/Úkoly/images/hw02_graph1.png",
     "AG1/Úkoly/Úkol 2.md",
+    "AG1/Cards/Untitled.md",
     "courses.fit.cvut.cz/BI-PHP.md",
     "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P2.md",
     "AG1/Přednášky/P1.md",
     "TWA/Cvičení/CV03.md",
     "courses.fit.cvut.cz",
-    "TWA/Přednášky/P3.md",
+    "AG1/Úkoly/images/Přednášky/P3.md",
     "PA1/Cvičení/CV03.md",
     "PA1/Cvičení",
     "PA1",
@@ -175,14 +177,14 @@
     "ML1/Přednášky",
     "ML1",
     "TWA/Cvičení/CV02.md",
-    "TWA/Přednášky/P2.md",
+    "AG1/Úkoly/images/Přednášky/P2.md",
     "AAG/Úkoly/Úkol 1.md",
     "AG1/Úkoly",
     "TWA/Cvičení/CV01.md",
     "AAG/Úkoly",
     "AAG/Untitled.md",
     "TWA/Cvičení",
-    "TWA/Přednášky/P1.md",
+    "AG1/Úkoly/images/Přednášky/P1.md",
     "Readme.md",
     "cardstest.md"
   ]
