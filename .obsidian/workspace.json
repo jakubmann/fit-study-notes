@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards/Untitled.md",
+                "file": "AG1/Úkoly/Úkol 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Cards/Untitled.md",
+                "file": "AG1/Úkoly/Úkol 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Cards/Untitled.md",
+                "file": "AG1/Úkoly/Úkol 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Cards/Untitled.md"
+                "file": "AG1/Úkoly/Úkol 2.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "eafb6200cea6d3bf",
   "lastOpenFiles": [
-    "courses.fit.cvut.cz/BI-PHP.md",
     "AG1/Cards/Untitled.md",
+    "AG1/Úkoly/Úkol 2.md",
+    "courses.fit.cvut.cz/BI-PHP.md",
     "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P2.md",
     "AG1/Přednášky/P1.md",
