@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PA1/Cvičení/CV04.md",
+                "file": "TWA/Přednášky/P4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PA1/Cvičení/CV04.md",
+                "file": "TWA/Přednášky/P4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PA1/Cvičení/CV04.md",
+                "file": "TWA/Přednášky/P4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PA1/Cvičení/CV04.md"
+                "file": "TWA/Přednášky/P4.md"
               }
             }
           }
@@ -150,8 +150,10 @@
   },
   "active": "dfffcb823ed44bfa",
   "lastOpenFiles": [
-    "AG1/Úkoly/Úkol 2.md",
     "PA1/Cvičení/CV04.md",
+    "TWA/Přednášky/P4.md",
+    "TWA/Přednášky",
+    "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/images/hw02_graph2.png",
     "AG1/Úkoly/images/hw02_graph1.png",
     "AG1/Cards/Untitled.md",
@@ -184,7 +186,6 @@
     "TWA/Cvičení/CV01.md",
     "AAG/Úkoly",
     "AAG/Untitled.md",
-    "TWA/Cvičení",
     "AG1/Úkoly/images/Přednášky/P1.md",
     "Readme.md",
     "cardstest.md"
