@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TWA/Přednášky/P4.md",
+                "file": "TWA/Cvičení/CV04.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "CV04"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TWA/Přednášky/P4.md",
+                "file": "TWA/Cvičení/CV04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for CV04"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TWA/Přednášky/P4.md",
+                "file": "TWA/Cvičení/CV04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from CV04"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TWA/Přednášky/P4.md"
-              }
+                "file": "TWA/Cvičení/CV04.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of CV04"
             }
           }
         ]
@@ -150,8 +166,9 @@
   },
   "active": "dfffcb823ed44bfa",
   "lastOpenFiles": [
-    "PA1/Cvičení/CV04.md",
     "TWA/Přednášky/P4.md",
+    "TWA/Cvičení/CV04.md",
+    "PA1/Cvičení/CV04.md",
     "TWA/Přednášky",
     "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/images/hw02_graph2.png",
