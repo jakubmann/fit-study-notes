@@ -180,8 +180,41 @@ END
 START
 Basic
 
-
+Jaká je definice jazyka generovaného gramatikou $G = (\ldots)$?
 
 Back:
+$L(G) = \{ w : w \in \Sigma^*, \exists S \Rightarrow^* w \}$
+
+END
+
+START
+Basic
+
+Kdy jsou dvě gramatiky ekvivalentní?
+
+Back:
+Když generují stejný jazyk.
+
+END
+
+START
+Basic
+
+Jak vypadá neomezená gramatika?
+
+Back:
+Když odpovídá obecné definici gramatiky.
+
+END
+
+
+
+START
+Basic
+
+Jak vypadá kontextová gramatika?
+
+Back:
+Každé pravidlo z $P$ má tvar $\gamma A \delta \rightarrow \gamma \alpha \delta$, kde $\gamma, \delta \in (N \cup \Sigma)^*, \alpha in (N \cup \Sigma)^+, A \in N$, nebo tvar $S \rightarrow \varepsilon$ v případě, že S se nevyskytuje na pravé straně žádného pravidla.
 
 END
