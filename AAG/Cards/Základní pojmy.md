@@ -294,3 +294,15 @@ Back:
 Třída bezkontextových jazyků je uzavřena na operacích *sjednocení, součin a iterace*.
 
 END
+
+START
+BasicBasic
+
+Jak vytvoříme gramatiku pro sjednocení jazyků?
+
+Back:
+Vstup: Bezkontextové gramatiky $G_1 = (N_1, \Sigma_1, P_1, S_1)$ a $G_2 = (N_2, \Sigma_2, P_2, S_2)$ generující jazyky $L_1$ a $L_2$, $N_1 \cap N_2 = \emptyset$.
+Výstup: bezkontextová gramatika $G$, $L(G) = L_1 \cup L_2$.
+$G \leftarrow (N_1 \cup N_2 \cup \{ S \}, \Sigma, P_1 \cup P_2 \cup \{ S \})$
+
+ENDVytvoříme nový počáteční symbol 
