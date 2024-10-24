@@ -284,3 +284,13 @@ Jazyk je regulární, pokud $\exists$  regulární gramatika, která ho generuje
 - Jsou rozpoznatelné konečným automatem.
 
 END
+
+START
+Basic
+
+Na jakých operacích je uzavřena třída bezkontextových jazyků?
+
+Back:
+Třída bezkontextových jazyků je uzavřena na operacích *sjednocení, součin a iterace*.
+
+END
