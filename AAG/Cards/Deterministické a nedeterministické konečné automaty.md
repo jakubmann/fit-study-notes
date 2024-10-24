@@ -35,7 +35,6 @@ Jak zní definice přechodu DKA?
 
 Back:
 Přechod DKA je relace $\vdash_M$ nad $Q \times \Sigma^*$, kde $(q, w) \vdash_M (p, w')$ právě tehdy, když $w = aw'$ a $\delta(q, a) = p$ pro nějaké $a \in \Sigma$ a $w \in \Sigma^*$.
-
 <!--ID: 1729778067038-->
 END
 
