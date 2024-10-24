@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAG/Cards/Základní pojmy.md",
+                "file": "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Základní pojmy"
+              "title": "Deterministické a nedeterministické konečné automaty"
             }
           }
         ]
@@ -167,9 +167,11 @@
   },
   "active": "dfffcb823ed44bfa",
   "lastOpenFiles": [
-    "AG1/Cards/Základy grafů.md",
     "AAG/Cards/Základní pojmy.md",
+    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
+    "AG1/Cards/Základy grafů.md",
     "AG1/Cards/Untitled.md",
+    "Readme.md",
     "ML1/Přednášky/P1.md",
     "AAG/Cards",
     "PA1/Cvičení/CV04.md",
@@ -206,7 +208,6 @@
     "TWA/Cvičení/CV01.md",
     "AAG/Untitled.md",
     "AG1/Úkoly/images/Přednášky/P1.md",
-    "Readme.md",
     "cardstest.md"
   ]
 }
