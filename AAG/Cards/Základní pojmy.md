@@ -218,3 +218,69 @@ Back:
 Každé pravidlo z $P$ má tvar $\gamma A \delta \rightarrow \gamma \alpha \delta$, kde $\gamma, \delta \in (N \cup \Sigma)^*, \alpha in (N \cup \Sigma)^+, A \in N$, nebo tvar $S \rightarrow \varepsilon$ v případě, že S se nevyskytuje na pravé straně žádného pravidla.
 
 END
+
+START
+Basic
+
+Jak vypadá bezkontextová gramatika?
+
+Back:
+Každé pravidlo má tvar $A \rightarrow \alpha$, kde $A \in N, \alpha \in (N \cup \Sigma)^*$.
+
+END
+
+START
+Basic
+
+Jak vypadá regulární gramatika?
+
+Back:
+Každé pravidlo má tvar $A \rightarrow aB$ nebo $A \rightarrow a$, kde $A, B \in N, a \in \Sigma$, nebo tvar $S \rightarrow \varepsilon$ v případě, že $S$ se nevyskytuje na pravé straně žádného pravidla.
+
+END
+
+START
+Basic
+
+Jaká je definice rekurzivně spočetného jazyka?
+
+Back:
+Jazyk je *rekurzivně spočetný*, pokud $\exists$ neomezená gramatika, která ho generuje.
+- Jsou rozpoznatelné turignovým strojem.
+
+END
+
+
+START
+Basic
+
+Jaká je definice kontextového jazyka?
+
+Back:
+Jazyk je kontextový, pokud $\exists$  kontextová gramatika, která ho generuje.
+- Jsou rozpoznatelné lineárně omezeným automatem.
+
+END
+
+
+START
+Basic
+
+Jaká je definice bezkontextového jazyka?
+
+Back:
+Jazyk je bezkontextový, pokud $\exists$  bezkontextová gramatika, která ho generuje.
+- Jsou rozpoznatelné zásobníkovým automatem.
+
+END
+
+START
+Basic
+
+Jaká je definice regulárního jazyka?
+
+Back:
+Jazyk je regulární, pokud $\exists$  regulární gramatika, která ho generuje.
+- Jsou rozpoznatelné konečným automatem.
+
+END
