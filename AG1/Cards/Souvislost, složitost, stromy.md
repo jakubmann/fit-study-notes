@@ -1,8 +1,6 @@
 TARGET DECK: FIT::AG1::Souvislost, složitost, stromy
 
-START
+FRONT
 Basic
 
 
-
-END
