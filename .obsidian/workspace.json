@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Cards/Stromy, kostry, topologické řazení.md",
+                "file": "ML1/Přednášky/P1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stromy, kostry, topologické řazení"
+              "title": "P1"
             }
           }
         ]
@@ -166,9 +166,11 @@
   },
   "active": "dfffcb823ed44bfa",
   "lastOpenFiles": [
+    "AG1/Přednášky/P2.md",
+    "AG1/Přednášky/P1.md",
+    "AG1/Cards/Stromy, kostry, topologické řazení.md",
     "AG1/Cards/Souvislost, složitost, stromy.md",
     "AG1/Cards/Základy grafů.md",
-    "AG1/Cards/Stromy, kostry, topologické řazení.md",
     "TWA/Cvičení/CV05.md",
     "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
     "AAG/Cards/Základní pojmy.md",
@@ -184,8 +186,6 @@
     "AG1/Úkoly/images/hw02_graph2.png",
     "AG1/Úkoly/images/hw02_graph1.png",
     "courses.fit.cvut.cz/BI-PHP.md",
-    "AG1/Přednášky/P2.md",
-    "AG1/Přednášky/P1.md",
     "TWA/Cvičení/CV03.md",
     "courses.fit.cvut.cz",
     "AG1/Úkoly/images/Přednášky/P3.md",
