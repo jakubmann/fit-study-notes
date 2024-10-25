@@ -166,3 +166,33 @@ Back:
 - Vrchol $v$ grafu $G$ nazveme **listem**, pokud $\deg_G(v) = 1$.
 
 END
+
+FRONT
+Basic
+
+Jak zní věta o trhání listů?
+
+Back:
+Nechť $G = (V, E)$ je graf na alespoň dvou vrcholech a nechť $v \in V$ je jeho list. Pak jsou následující tvrzení ekvivalentní:
+1. $G$ je strom.
+2. $G - v$ je strom.
+
+**Interpretace:**  
+Pokud ze stromu odebereme list nebo do stromu přidáme list, graf zůstává stromem.
+
+END
+
+FRONT
+Basic
+
+Jak zní věta o charakterizaci stromů?
+
+Back:
+Nechť $G = (V, E)$ je graf. Pak následující tvrzení jsou ekvivalentní:
+1. $G$ je strom.
+2. Pro každé dva vrcholy $u, v \in V$ existuje právě jedna $u$-$v$-cesta.
+3. $G$ je souvislý a vynecháním libovolné hrany vznikne nesouvislý graf.
+4. $G$ je souvislý a $|E| = |V| - 1$.
+
+END
+
