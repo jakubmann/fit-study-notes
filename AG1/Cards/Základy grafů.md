@@ -167,14 +167,7 @@ Tags: bfs definice
 <!--ID: 1727259925437-->
 END
 
-START
-Basic
-
-V čem spočívá důkaz správnosti algoritmu BFS?
-
-Tags: bfs
-<!--ID: 1727259925448-->
-END
+TODO: důkaz správnosti a konečnosti BFS
 
 START
 Basic
@@ -318,6 +311,7 @@ Back:
 Graf $H$ je **podgrafem** grafu $G$, když $V(H) \subseteq V(G)$ a $E(H) \subseteq E(G)$.
 
 Tags: graf definice
+<!--ID: 1728554489914-->
 END
 
 START
@@ -328,6 +322,7 @@ Back:
 Graf $H$ je **indukovaným podgrafem** grafu $G$, když $V(H) \subseteq V(G)$ a $E(H) = E(G) \cap \binom{V(H)}{2}$.
 
 Tags: graf definice
+<!--ID: 1728554489923-->
 END
 
 START
@@ -339,6 +334,7 @@ Je-li $G = (V, E)$ a $V' \subseteq V$, pak $G[V']$ označuje graf s množinou vr
 Říkáme, že $G[V']$ je **podgraf indukovaný množinou vrcholů** $V'$.
 
 Tags: graf definice
+<!--ID: 1728554489925-->
 END
 
 START
@@ -348,4 +344,39 @@ Jaká je definice bipartitního grafu?
 Back:
 Podgraf úplného bipartitního grafu je **bipartitní graf**.
 Tags: graf definice
+<!--ID: 1728554489928-->
+END
+
+START
+Basic
+
+Co znamená pojem  **Klika** v grafu?
+Back:
+**Klika** v grafu $G$ je podmožina vrcholů, znichž každé dva jsou sousední.
+Tags: graf definice
+<!--ID: 1728554489930-->
+END
+
+START
+Basic
+
+Jak zní definice orientovaného grafu?
+Back:
+**Orientovaný graf** $G$ je uspořádaná dvojice $(V, E)$, kde
+- $V$ je neprázdná konečná množina **vrcholů** a 
+- $E$ je množina **orientovaných hra**n.
+Orientovaná hrana $(u, v) \in E$ je **uspořádaná** dvojice vrcholů $u, v \in V$.
+$u$ je **předchůdce** $v$ a $v$ je **následník** $u$.
+Tags: graf definice
+<!--ID: 1728554489932-->
+END
+
+START
+Basic
+
+Jak se liší kód BFS pro orientovaný graf?
+Back:
+Místo **sousedů** přidáváme do fronty **následníky**. Jinak se neliší nijak.
+Tags: bfs
+<!--ID: 1728554489935-->
 END

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c12515634142e28f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAG/Úkoly/Úkol 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAG/Úkoly/Úkol 2.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAG/Úkoly/Úkol 2.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -148,13 +161,37 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "aefdf95b21bb8f09",
+  "active": "c12515634142e28f",
   "lastOpenFiles": [
+    "AAG/Úkoly/Úkol 2.md",
+    "conflict-files-obsidian-git.md",
+    "TWA/Cvičení/CV06.md",
+    "TWA/Cvičení/CV05.md",
+    "TWA/Cvičení/CV04.md",
+    "TWA/Cvičení/CV03.md",
+    "PA1/Cvičení/CV04.md",
+    "PA1/Cvičení/CV03.md",
+    "PA1/Cvičení",
+    "PA1",
+    "ML1/Přednášky/P3.md",
+    "ML1/Přednášky/P2.md",
+    "AG1/Úkoly/Úkol 2.md",
+    "AG1/Úkoly/images/hw02_graph2.png",
+    "AG1/Úkoly/images/hw02_graph1.png",
+    "AG1/Úkoly/images/Přednášky/P3.md",
+    "AG1/Úkoly/images/Přednášky/P2.md",
+    "AG1/Úkoly/images/Přednášky/P1.md",
+    "AG1/Úkoly/images/Přednášky",
+    "AG1/Přednášky/P2.md",
+    "AG1/Cards/Stromy, kostry, topologické řazení.md",
+    "AG1/Cards/Souvislost, složitost, stromy.md",
+    "AAG/Cards/Základní pojmy.md",
+    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
+    "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
     "AAG/Úkoly/images/hw01_automat2.png",
     "AAG/Úkoly/images/hw01_automat",
     "AAG/Úkoly/Úkol 1.md",
-    "AAG/Úkoly/Úkol 2.md",
     "AG1/Úkoly/Úkol 1.md",
     "AAG/Úkoly/images",
     "AAG/Úkoly/úkol 1.md",
@@ -169,17 +206,7 @@
     "TWA/Přednášky/P2.md",
     "TWA/Přednášky/P1.md",
     "TWA/Cvičení/CV02.md",
-    "TWA/Cvičení/CV01.md",
     "TWA/Přednášky",
-    "TWA/Cvičení",
-    "TWA",
-    "Readme.md",
-    "ML1/Přednášky/P1.md",
-    "ML1/Přednášky",
-    "ML1",
-    "AG1/Úkoly",
-    "AG1/Cards/Základy grafů.md",
-    "AG1/Přednášky/P1.md",
-    "Untitled.md"
+    "TWA/Cvičení"
   ]
 }
