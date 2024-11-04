@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAG/Úkoly/Úkol 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c12515634142e28f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AG1/Harmonogram a hodnocení.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AG1/Harmonogram a hodnocení.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "AG1/Harmonogram a hodnocení.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "AG1/Harmonogram a hodnocení.md"
               }
             }
           }
@@ -161,8 +148,20 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "c12515634142e28f",
+  "active": "aefdf95b21bb8f09",
   "lastOpenFiles": [
+    "ML1/Harmonogram a hodnocení.md",
+    "AG1/Harmonogram a hodnocení.md",
+    "TWA/Harmonogram a hodnocení.md",
+    "PA1/Harmonogram a hodnocení.md",
+    "AG1/Cards/Souvislost, složitost, stromy.md",
+    "AG1/Cards/Stromy, kostry, topologické řazení.md",
+    "AG1/Cards/Základy grafů.md",
+    "AG1/Přednášky/P1.md",
+    "AG1/Přednášky/P2.md",
+    "AG1/Úkoly/Úkol 2.md",
+    "AG1/Úkoly/Úkol 1.md",
+    "ML1/Přednášky/P3.md",
     "AAG/Úkoly/Úkol 2.md",
     "conflict-files-obsidian-git.md",
     "TWA/Cvičení/CV06.md",
@@ -173,28 +172,20 @@
     "PA1/Cvičení/CV03.md",
     "PA1/Cvičení",
     "PA1",
-    "ML1/Přednášky/P3.md",
     "ML1/Přednášky/P2.md",
-    "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/images/hw02_graph2.png",
     "AG1/Úkoly/images/hw02_graph1.png",
     "AG1/Úkoly/images/Přednášky/P3.md",
     "AG1/Úkoly/images/Přednášky/P2.md",
     "AG1/Úkoly/images/Přednášky/P1.md",
     "AG1/Úkoly/images/Přednášky",
-    "AG1/Přednášky/P2.md",
-    "AG1/Cards/Stromy, kostry, topologické řazení.md",
-    "AG1/Cards/Souvislost, složitost, stromy.md",
     "AAG/Cards/Základní pojmy.md",
     "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
     "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
     "AAG/Úkoly/images/hw01_automat2.png",
     "AAG/Úkoly/images/hw01_automat",
-    "AAG/Úkoly/Úkol 1.md",
-    "AG1/Úkoly/Úkol 1.md",
     "AAG/Úkoly/images",
-    "AAG/Úkoly/úkol 1.md",
     "AG1/Úkoly/images/hw01_graph1.png",
     "AG1/Úkoly/images/hw01_graph2.png",
     "AG1/Úkoly/images",
@@ -202,10 +193,6 @@
     "Pasted image 20241008111941.png",
     "Pasted image 20241008111859.png",
     "Pasted image 20241008112023.png",
-    "AG1/Cards.md",
-    "TWA/Přednášky/P2.md",
-    "TWA/Přednášky/P1.md",
-    "TWA/Cvičení/CV02.md",
     "TWA/Přednášky",
     "TWA/Cvičení"
   ]
