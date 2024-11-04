@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Harmonogram a hodnocení.md",
+                "file": "AAG/Harmonogram a hodnocení.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AG1/Harmonogram a hodnocení.md",
+                "file": "AAG/Harmonogram a hodnocení.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AG1/Harmonogram a hodnocení.md",
+                "file": "AAG/Harmonogram a hodnocení.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AG1/Harmonogram a hodnocení.md"
+                "file": "AAG/Harmonogram a hodnocení.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "aefdf95b21bb8f09",
   "lastOpenFiles": [
-    "ML1/Harmonogram a hodnocení.md",
     "AG1/Harmonogram a hodnocení.md",
+    "AAG/Harmonogram a hodnocení.md",
+    "ML1/Harmonogram a hodnocení.md",
     "TWA/Harmonogram a hodnocení.md",
     "PA1/Harmonogram a hodnocení.md",
     "AG1/Cards/Souvislost, složitost, stromy.md",
@@ -180,7 +181,6 @@
     "AG1/Úkoly/images/Přednášky/P1.md",
     "AG1/Úkoly/images/Přednášky",
     "AAG/Cards/Základní pojmy.md",
-    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
     "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
     "AAG/Úkoly/images/hw01_automat2.png",
