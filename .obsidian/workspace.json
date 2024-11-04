@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TWA/Cvičení/CV06.md",
+                "file": "ML1/Přednášky/P1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CV06"
+              "title": "P1"
             }
           }
         ]
@@ -166,8 +166,8 @@
   },
   "active": "3a75fd74fe0a044f",
   "lastOpenFiles": [
-    "ML1/Přednášky/P1.md",
     "TWA/Cvičení/CV06.md",
+    "ML1/Přednášky/P1.md",
     "ML1/Přednášky/P2.md",
     "ML1/Přednášky/P3.md",
     "TWA/Přednášky/P6.md",
