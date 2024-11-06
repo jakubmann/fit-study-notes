@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML1/Přednášky/P3.md",
+                "file": "AAG/Cards/Operace s konečnými automaty.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "P3"
+              "title": "Operace s konečnými automaty"
             }
           }
         ]
@@ -166,6 +166,9 @@
   },
   "active": "3a75fd74fe0a044f",
   "lastOpenFiles": [
+    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
+    "AAG/Cards/Operace s konečnými automaty.md",
+    "ML1/Přednášky/P3.md",
     "ML1/Přednášky/P2.md",
     "ML1/Přednášky/P1.md",
     "conflict-files-obsidian-git.md",
@@ -175,7 +178,6 @@
     "AG1/Harmonogram a hodnocení.md",
     "AAG/Harmonogram a hodnocení.md",
     "TWA/Cvičení/CV06.md",
-    "ML1/Přednášky/P3.md",
     "TWA/Přednášky/P6.md",
     "Readme.md",
     "AG1/Cards/Základy grafů.md",
@@ -184,7 +186,6 @@
     "AG1/Přednášky/P1.md",
     "AG1/Cards/Stromy, kostry, topologické řazení.md",
     "AG1/Cards/Souvislost, složitost, stromy.md",
-    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
     "AAG/Cards/Základní pojmy.md",
     "AAG/Cards",
     "PA1/Cvičení/CV04.md",
@@ -195,7 +196,6 @@
     "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/images/hw02_graph2.png",
     "AG1/Úkoly/images/hw02_graph1.png",
-    "courses.fit.cvut.cz/BI-PHP.md",
     "courses.fit.cvut.cz",
     "PA1/Cvičení",
     "PA1",
