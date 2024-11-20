@@ -22,19 +22,47 @@
             }
           },
           {
-            "id": "40a1b85279ba0188",
+            "id": "7eb0c7b0190e0bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AG1/Cards/Stromy, kostry, topologické řazení.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stromy, kostry, topologické řazení"
+            }
+          },
+          {
+            "id": "03134f176fb17007",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.7.5"
+                "currentVersion": "1.7.7"
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "5163334f39c8e075",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -177,25 +205,26 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "40a1b85279ba0188",
+  "active": "5163334f39c8e075",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "AG1/Cards/Stromy, kostry, topologické řazení.md",
+    "AG1/Cards/Souvislost, složitost, stromy.md",
+    "AG1/Cards/Základy grafů.md",
+    "ML1/Přednášky/P2.md",
+    "AAG/Cards/Operace s konečnými automaty.md",
     "ML1/Přednášky/P3.md",
     "ML1/Přednášky/P1.md",
-    "ML1/Přednášky/P2.md",
-    "AG1/Cards/Stromy, kostry, topologické řazení.md",
     "AAG/Harmonogram a hodnocení.md",
     "AG1/Harmonogram a hodnocení.md",
     "ML1/Harmonogram a hodnocení.md",
     "TWA/Harmonogram a hodnocení.md",
     "PA1/Harmonogram a hodnocení.md",
-    "AG1/Cards/Souvislost, složitost, stromy.md",
-    "AG1/Cards/Základy grafů.md",
     "AG1/Přednášky/P1.md",
     "AG1/Přednášky/P2.md",
     "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/Úkol 1.md",
     "AAG/Úkoly/Úkol 2.md",
-    "conflict-files-obsidian-git.md",
     "TWA/Cvičení/CV06.md",
     "TWA/Cvičení/CV05.md",
     "TWA/Cvičení/CV04.md",
@@ -208,7 +237,6 @@
     "AG1/Úkoly/images/hw02_graph1.png",
     "AG1/Úkoly/images/Přednášky/P3.md",
     "AG1/Úkoly/images/Přednášky/P2.md",
-    "AG1/Úkoly/images/Přednášky/P1.md",
     "AG1/Úkoly/images/Přednášky",
     "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
