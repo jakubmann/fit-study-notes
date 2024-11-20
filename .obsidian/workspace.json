@@ -46,23 +46,9 @@
               "icon": "lucide-file",
               "title": "Release Notes 1.7.7"
             }
-          },
-          {
-            "id": "5163334f39c8e075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -205,7 +191,7 @@
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "5163334f39c8e075",
+  "active": "03134f176fb17007",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AG1/Cards/Stromy, kostry, topologické řazení.md",
