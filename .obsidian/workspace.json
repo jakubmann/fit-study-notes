@@ -39,12 +39,14 @@
             "id": "03134f176fb17007",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "AG1/Cards/4. Binární halda.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "4. Binární halda"
             }
           }
         ],
@@ -193,12 +195,15 @@
   },
   "active": "03134f176fb17007",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "AG1/Cards/Stromy, kostry, topologické řazení.md",
-    "AG1/Cards/Souvislost, složitost, stromy.md",
-    "AG1/Cards/Základy grafů.md",
-    "ML1/Přednášky/P2.md",
+    "AG1/Cards/2. Souvislost, složitost, stromy.md",
+    "AG1/Cards/3. Stromy, kostry, topologické řazení.md",
+    "AG1/Cards/1. Základy grafů.md",
+    "AG1/Cards/4. Binární halda.md",
+    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
+    "AAG/Cards/Základní pojmy.md",
     "AAG/Cards/Operace s konečnými automaty.md",
+    "conflict-files-obsidian-git.md",
+    "ML1/Přednášky/P2.md",
     "ML1/Přednášky/P3.md",
     "ML1/Přednášky/P1.md",
     "AAG/Harmonogram a hodnocení.md",
@@ -216,13 +221,10 @@
     "TWA/Cvičení/CV04.md",
     "TWA/Cvičení/CV03.md",
     "PA1/Cvičení/CV04.md",
-    "PA1/Cvičení/CV03.md",
     "PA1/Cvičení",
     "PA1",
     "AG1/Úkoly/images/hw02_graph2.png",
     "AG1/Úkoly/images/hw02_graph1.png",
-    "AG1/Úkoly/images/Přednášky/P3.md",
-    "AG1/Úkoly/images/Přednášky/P2.md",
     "AG1/Úkoly/images/Přednášky",
     "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
