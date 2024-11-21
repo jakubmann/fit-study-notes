@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c98908165bbd69",
+        "id": "035c15365add4911",
         "type": "tabs",
         "children": [
           {
-            "id": "3a75fd74fe0a044f",
+            "id": "aefdf95b21bb8f09",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AG1/Harmonogram a hodnocení.md",
+                "file": "ML1/Přednášky/P2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harmonogram a hodnocení"
+              "title": "P2"
+            }
+          },
+          {
+            "id": "7eb0c7b0190e0bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AG1/Cards/Stromy, kostry, topologické řazení.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stromy, kostry, topologické řazení"
+            }
+          },
+          {
+            "id": "03134f176fb17007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AG1/Cards/4. Binární halda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Binární halda"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TWA/Cvičení/CV04.md",
+                "file": "ML1/Přednášky/P2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CV04"
+              "title": "Backlinks for P2"
             }
           },
           {
@@ -112,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TWA/Cvičení/CV04.md",
+                "file": "ML1/Přednášky/P2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CV04"
+              "title": "Outgoing links from P2"
             }
           },
           {
@@ -139,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TWA/Cvičení/CV04.md"
+                "file": "ML1/Přednášky/P2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of CV04"
+              "title": "Outline of P2"
             }
           }
         ]
@@ -160,53 +189,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false
     }
   },
-  "active": "3a75fd74fe0a044f",
+  "active": "03134f176fb17007",
   "lastOpenFiles": [
     "Untitled.md",
     "TWA/Cvičení/CV09.md",
     "TWA/Cvičení/CV08.md",
-    "AG1/Harmonogram a hodnocení.md",
-    "AAG/Harmonogram a hodnocení.md",
+    "AAG/Cards/Základní pojmy.md",
+    "AAG/Cards/Operace s konečnými automaty.md",
+    "AG1/Cards/4. Binární halda.md",
+    "AG1/Cards/1. Základy grafů.md",
+    "AG1/Cards/2. Souvislost, složitost, stromy.md",
+    "AG1/Cards/3. Stromy, kostry, topologické řazení.md",
+    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
+    "conflict-files-obsidian-git.md",
     "ML1/Přednášky/P2.md",
     "ML1/Přednášky/P3.md",
-    "AAG/Cards/Operace s konečnými automaty.md",
-    "AAG/Cards/Deterministické a nedeterministické konečné automaty.md",
     "ML1/Přednášky/P1.md",
-    "conflict-files-obsidian-git.md",
+    "AAG/Harmonogram a hodnocení.md",
+    "AG1/Harmonogram a hodnocení.md",
+    "ML1/Harmonogram a hodnocení.md",
     "TWA/Harmonogram a hodnocení.md",
     "PA1/Harmonogram a hodnocení.md",
-    "ML1/Harmonogram a hodnocení.md",
-    "TWA/Cvičení/CV06.md",
-    "TWA/Přednášky/P6.md",
-    "Readme.md",
-    "AG1/Cards/Základy grafů.md",
-    "TWA/Cvičení/CV05.md",
-    "AG1/Přednášky/P2.md",
     "AG1/Přednášky/P1.md",
-    "AG1/Cards/Stromy, kostry, topologické řazení.md",
-    "AG1/Cards/Souvislost, složitost, stromy.md",
-    "AAG/Cards/Základní pojmy.md",
-    "AAG/Cards",
-    "PA1/Cvičení/CV04.md",
-    "PA1/Cvičení/CV03.md",
-    "TWA/Přednášky",
-    "AG1/Úkoly/images/hw02_graph2.png",
-    "AG1/Úkoly/images/hw02_graph1.png",
-    "courses.fit.cvut.cz",
+    "AG1/Přednášky/P2.md",
+    "AG1/Úkoly/Úkol 2.md",
+    "AG1/Úkoly/Úkol 1.md",
+    "AAG/Úkoly/Úkol 2.md",
+    "TWA/Cvičení/CV06.md",
+    "TWA/Cvičení/CV05.md",
     "PA1/Cvičení",
     "PA1",
-    "AG1/Úkoly/images/hw01_graph2.png",
-    "AG1/Úkoly/images/hw01_graph1.png",
-    "AG1/Úkoly/images",
-    "AAG/Úkoly/images/hw01_automat2.png",
+    "AG1/Úkoly/images/hw02_graph2.png",
+    "AG1/Úkoly/images/hw02_graph1.png",
+    "AG1/Úkoly/images/Přednášky",
+    "AAG/Cards",
     "AAG/Úkoly/images/hw01_automat1.png",
+    "AAG/Úkoly/images/hw01_automat2.png",
+    "AAG/Úkoly/images/hw01_automat",
     "AAG/Úkoly/images",
-    "ML1/Přednášky",
-    "ML1",
-    "AG1/Úkoly"
+    "AG1/Úkoly/images/hw01_graph1.png",
+    "AG1/Úkoly/images/hw01_graph2.png",
+    "AG1/Úkoly/images",
+    "AG1/Úkoly/Úkol 1.pdf",
+    "Pasted image 20241008111941.png",
+    "Pasted image 20241008111859.png",
+    "Pasted image 20241008112023.png",
+    "TWA/Přednášky",
+    "TWA/Cvičení"
   ]
 }
