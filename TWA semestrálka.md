@@ -1,5 +1,5 @@
 # Technologie
-- Symfony  + php 8.0 (LTS)
+- Symfony 7.1.9 + php 8.2
 - Doctrine + postgresql (může hypoteticky zjenodušit škálování aplikace v budoucnu oproti použití sqlite)
-- Vanilla CSS + sémantické HTML5
-- RESTful API
+- Vanilla CSS bez preprocesoru + sémantické HTML5 (v šablonách twig)
+- Typescript  bez frameworku + propojení s BE pomocí RESTful API
