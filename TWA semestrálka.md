@@ -12,3 +12,5 @@ Předpokládáné technologie pro implementaci jsou:
 - Doctrine + postgresql (může hypoteticky zjenodušit škálování aplikace v budoucnu oproti použití sqlite)
 - Vanilla CSS bez preprocesoru + sémantické HTML5
 - Typescript  bez frameworku + propojení s BE pomocí RESTful API
+
+Díky!
