@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TWA semestrálka.md",
+                "file": "AG1/Cards/5..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TWA semestrálka"
+              "title": "5."
             }
           }
         ],
@@ -210,7 +210,9 @@
   "active": "18bed7223fde8a77",
   "lastOpenFiles": [
     "AG1/Cards/4. Binární halda.md",
+    "AG1/Cards/5..md",
     "TWA semestrálka.md",
+    "AAG/Cards/Untitled.md",
     "Untitled.md",
     "TWA/Cvičení/CV09.md",
     "TWA/Cvičení/CV08.md",
@@ -233,8 +235,6 @@
     "AG1/Přednášky/P2.md",
     "AG1/Úkoly/Úkol 2.md",
     "AG1/Úkoly/Úkol 1.md",
-    "AAG/Úkoly/Úkol 2.md",
-    "TWA/Cvičení/CV06.md",
     "PA1/Cvičení",
     "PA1",
     "AG1/Úkoly/images/hw02_graph2.png",
