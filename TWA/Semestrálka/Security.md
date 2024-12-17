@@ -7,4 +7,9 @@
 		- Login here to generate API token for authenticating the API calls
 		- 
 	- [Rate limiter](https://symfony.com/doc/current/security.html#limiting-login-attempts)
-	- 
+- Twig template access checking
+```
+{% if is_granted('ROLE_ADMIN') %}
+    <a href="...">Delete</a>
+{% endif %}
+```
