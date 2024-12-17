@@ -6,4 +6,5 @@
 	- API - `php bin/console make:controller --no-template ApiLogin`
 		- Login here to generate API token for authenticating the API calls
 		- 
-		
+	- [Rate limiter](https://symfony.com/doc/current/security.html#limiting-login-attempts)
+	- 
